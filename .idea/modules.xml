@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CumulativePoetry.iml" filepath="$PROJECT_DIR$/CumulativePoetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CumulativePoetry.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CumulativePoetry.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CumulativePoetry.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CumulativePoetry.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CumulativePoetryTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-08-07T15:10:59" hostname="Viswajits-MacBook-Pro.local" time="0.033">
+  <properties/>
+  <testcase name="printTillDayTestEleven" classname="CumulativePoetryTest" time="0.022"/>
+  <testcase name="printTillDayTestTwelve" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printRecite" classname="CumulativePoetryTest" time="0.007"/>
+  <testcase name="printTillDayTestEight" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestSeven" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestThree" classname="CumulativePoetryTest" time="0.001"/>
+  <testcase name="printTillDayTestFive" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestFour" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestNine" classname="CumulativePoetryTest" time="0.001"/>
+  <testcase name="printTillDayTestOne" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestSix" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestTen" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="printTillDayTestTwo" classname="CumulativePoetryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
